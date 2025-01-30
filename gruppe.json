@@ -1,9 +1,11 @@
 [
     {
-    "navn": {"fornavn": "Tilde",
-    "efternavn":"Fløe Sørensen"},
-    "alder":"24",
-    "studerende": "true", 
+    "navn": {
+        "fornavn": "Tilde",
+        "efternavn":"Fløe Sørensen"
+    },
+    "alder":24,
+    "studerende": true, 
     "interesser": ["JavaScript", "Html", "CSS"],
     "adresse": {
         "vej": "Ørholmgade 6",
@@ -12,7 +14,6 @@
     },
     "fødselsdato": "2000-12-19"
     },
-
     {
         "navne": {
             "fornavn": "Maria Xia",
